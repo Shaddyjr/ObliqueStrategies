@@ -16,9 +16,7 @@
         android:textSize="35sp"
         android:textAlignment="center"
         android:layout_marginHorizontal="36dp"
-        android:fontFamily="casual"
-        android:breakStrategy="simple"
-
+        android:fontFamily="monospace"
  />
 
     <Button
