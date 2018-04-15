@@ -1,4 +1,4 @@
-package com.example.android.obliquestrategies;
+package com.mahdispw.android.obliquestrategies;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
